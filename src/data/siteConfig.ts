@@ -697,8 +697,8 @@ export const SITE_CONFIG = {
     headline: "Let's Discuss Your Project",
     subtext:
       'Planning a new home, commercial development or renovation? Tell us about your project, and our team will help you explore the next steps.',
-    email: 'alphaarchitectures1@gmail.com',
-    emailHref: 'mailto:alphaarchitectures1@gmail.com',
+    email: 'info@alphaarchitectures.com',
+    emailHref: 'mailto:info@alphaarchitectures.com',
     emailLabel: 'Email Us',
     phones: [
       {
